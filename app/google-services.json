@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770960995119",
+    "project_id": "datos-de-reportes",
+    "storage_bucket": "datos-de-reportes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770960995119:android:c15fe58f720239298967da",
+        "android_client_info": {
+          "package_name": "com.jimmy.reportemayor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrbmW3R1crXFUxdKd7N9Hvmc4k1EXnkyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770960995119:android:6d9c1fe98560f9a08967da",
+        "android_client_info": {
+          "package_name": "com.jimmydev.guardardatos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrbmW3R1crXFUxdKd7N9Hvmc4k1EXnkyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

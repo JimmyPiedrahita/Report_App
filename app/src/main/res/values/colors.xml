@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Color_principal">#5E9FA3</color>
+    <color name="Color_principal_dark">#27888B</color>
+    <color name="Color_principal_light">#399A9D</color>
+    <color name="Color_secundario">#171430</color>
+    <color name="transparent">#59FFFFFF</color>
+    <color name="Color_terciario">#A4A4A4</color>
+    <color name="Color_terciario_light">#D9D9D9</color>
+    <color name="transparent_50">#80FFFFFF</color>
+    <color name="Color_buttom_update">#E77D00</color>
+    <color name="Color_buttom_delete">#D10000</color>
+</resources>

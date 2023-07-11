@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--Nombre de la aplicacion-->
+    <string name="app_name">ReportApp</string>
+
+    <!--Titulos-->
+    <string name="title_reporte_activity">BUSCAR REPORTE</string>
+
+    <!--textos nombres de campos de los reportes-->
+    <string name="tx_codigo">Código:</string>
+    <string name="tx_pc">Pc:</string>
+    <string name="tx_sala">Sala:</string>
+    <string name="tx_sede">Sede:</string>
+    <string name="tx_descripcion">Descripción</string>
+    <string name="tx_estado">Estado:</string>
+    <string name="tx_nombre">Nombre:</string>
+    <string name="tx_email">Email:</string>
+
+    <!--Opciones de estados a modificar-->
+    <string name="tx_estado_solucion">Solucionado</string>
+    <string name="tx_estado_proceso">En proceso</string>
+
+    <!--Descripcion de imagenes-->
+    <string name="String_descripcion_logo">Logo de reportApp</string>
+
+    <!--Textos de botones-->
+    <string name="tx_buttom_eliminar">Eliminar</string>
+    <string name="tx_buttom_actualizar">Actualizar</string>
+    <string name="tx_buttom_ver_reporte">Ver Reporte</string>
+    <string name="tx_buttom_administrador">Administrador</string>
+    <string name="tx_buttom_generar_reporte">Generar Reporte</string>
+    <string name="tx_buttom_ingresar">Ingresar</string>
+    <string name="tx_buttom_enviar">Enviar</string>
+
+    <!--Titulos de cartas-->
+    <string name="title_reporte_remitente">Datos del remitente</string>
+    <string name="title_reporte_reporte">Datos del reporte</string>
+    <string name="title_reporte_modificar">Modificar estado</string>
+
+    <!--Texto previo en campos de texto-->
+    <string name="text_field_hint_search" tools:ignore="TypographyEllipsis">Search...</string>
+    <string name="text_field_hint_clave">Clave</string>
+    <string name="text_field_hint_nombre">Nombre completo *</string>
+
+    <!--textos nombres de campos de los reportes-->
+    <string name="tx_estado_ver">ESTADO</string>
+    <string name="tx_codigo_ver">CODIGO</string>
+    <string name="tx_pc_ver">PC</string>
+    <string name="tx_sala_ver">SALA</string>
+    <string name="tx_sede_ver">SEDE</string>
+    <string name="tx_descripcion_ver">DESCRIPCION</string>
+    <string name="et_formulario">Campos obligatorios *</string>
+    <string name="et_correo">Correo institucional *</string>
+    <string name="et_descripcion">Descripción *</string>
+
+</resources>
