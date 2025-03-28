@@ -61,7 +61,7 @@ public class ControllerAdapter extends RecyclerView.Adapter<MyViewHolder> {
     }
 }
 class MyViewHolder extends RecyclerView.ViewHolder{
-    TextView sede,codigo,sala,pc,estado;
+    TextView sede,codigo,estado;
     CardView cardReporte;
     public MyViewHolder(@NonNull View itemView) {
         super(itemView);

@@ -40,6 +40,7 @@ public class Interface_administrator extends AppCompatActivity {
                 return true;
             }
         });
+
         GridLayoutManager gridLayoutManager = new GridLayoutManager(Interface_administrator.this, 1);
         recyclerView.setLayoutManager(gridLayoutManager);
         ControllerBaseDatos controlBd= new ControllerBaseDatos();
